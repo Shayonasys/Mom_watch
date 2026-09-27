@@ -56,7 +56,7 @@ git clone https://github.com/Shayonasys/.git
 
 pip install -r requirements.txt
 
-4. Run app.py
+3. Run app.py
 
 python app.py
 
